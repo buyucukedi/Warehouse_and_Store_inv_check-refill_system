@@ -1,0 +1,1 @@
+To use this file, rename the folder from example_db to db and place it under the source_code directory.
